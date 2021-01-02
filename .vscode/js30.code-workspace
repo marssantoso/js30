@@ -1,13 +1,16 @@
 {
   "folders": [
-	{
-		"path": "01"
-	},
-	{
-		"path": "02"
-	}
-],
+    {
+      "path": "../03"
+    },
+    {
+      "path": "../01"
+    },
+    {
+      "path": "../02"
+    }
+  ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "02"
+    "liveServer.settings.multiRootWorkspaceName": "03"
   }
 }
