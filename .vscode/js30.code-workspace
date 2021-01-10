@@ -26,10 +26,13 @@
     },
     {
       "path": "../09"
+    },
+    {
+      "path": "../10"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "09",
+    "liveServer.settings.multiRootWorkspaceName": "10",
     "liveServer.settings.port": 5501
   }
 }
