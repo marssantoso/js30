@@ -53,10 +53,13 @@
     },
     {
       "path": "../18"
+    },
+    {
+      "path": "../19"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "18",
+    "liveServer.settings.multiRootWorkspaceName": "19",
     "liveServer.settings.port": 5501
   }
 }
